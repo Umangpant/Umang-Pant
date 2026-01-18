@@ -13,11 +13,11 @@
 
 ---
 
- 👋 About Me  
-- 💻 Full-stack developer working with **Java, Spring Boot, ReactJS, MySQL**  
-- ☁️ Exploring **AWS Cloud** and backend scalability  
-- 🚀 Passionate about **Backend APIs, Security**  
-- 📫 Email: **pantumang2001@gmail.com**
+ 👨‍💻 About Me  
+- 💻 Full-stack developer working with Java, Spring Boot, ReactJS, MySQL 
+- ☁️ Exploring AWS Cloud and backend scalability  
+- 🚀 Passionate about Backend APIs, Security
+- 📫 Email: pantumang2001@gmail.com
 
 ---
 
