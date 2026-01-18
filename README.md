@@ -67,9 +67,6 @@
 
 ---
 
-
- 📊 GitHub Analytics  
-
  📊 Most Used Languages
 <p align="center">
   <img 
