@@ -40,40 +40,12 @@
 
 ---
 
- 🚀 Featured Projects
-
 <div align="center">
-
- 🚗 CDRIVE – Car Renting Website
-<a href="https://github.com/Umangpant/CDRIVE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Umangpant&repo=CDRIVE&theme=highcontrast" />
-</a>
-
----
-
- 🪙 CCOIN – Crypto Price Tracker
-<a href="https://github.com/Umangpant/CCOIN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Umangpant&repo=CCOIN&theme=highcontrast" />
-</a>
-
----
-
- 🎙️ LYRA – Virtual Assistant
-<a href="https://github.com/Umangpant/LYRA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Umangpant&repo=LYRA&theme=highcontrast" />
-</a>
-
-</div>
-
----
-
- 📊 Most Used Languages
-<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umangpant&layout=compact&theme=highcontrast" 
-    height="170"
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlzbW1raGIwcjBlYzZheHBkY2hkdW1naWZ6a3l0dHExcWhtdzdxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif" 
+    width="450" 
+    alt="coding gif"
   />
-</p>
-
+</div>
 
 ---
