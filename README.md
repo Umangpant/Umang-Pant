@@ -17,6 +17,7 @@
 - 💻 Full-stack developer working with Java, Spring Boot, ReactJS, MySQL 
 - ☁️ Exploring AWS Cloud and backend scalability  
 - 🚀 Passionate about Backend APIs, Security
+- 🤝 I’m open to collaborating on impactful full-stack projects to grow my skills and explore new tech.
 - 📫 Email: pantumang2001@gmail.com
 
 ---
